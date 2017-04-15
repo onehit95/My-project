@@ -20,12 +20,36 @@ namespace Model.Dao
             return entity.ID;
         }
 
+        public bool Update(User entity) {
+            try
+            {
+                var user = db.Users.Find(entity.ID);
+                user.Name = entity.Name;
+                if (!string.IsNullOrEmpty(entity.Password)) {
+                    user.Password = entity.Password;
+                }
+                user.Address = entity.Address;
+                user.Email = entity.Email;
+                user.ModifiedBy = entity.ModifiedBy;
+                user.ModifiedDate = DateTime.Now;
+                db.SaveChanges();
+                return true;
+            }
+            catch (Exception ex) {
+                return false;
+            }
+        }
+
         public IEnumerable<User> ListAllPaging(int page, int PageSize) {
             return db.Users.OrderByDescending(x => x.CreatedDate).ToPagedList(page, PageSize);
         }
 
         public User GetById(string userName) {
             return db.Users.SingleOrDefault(x => x.UserName == userName);
+        }
+
+        public User ViewDetail(int id) {
+            return db.Users.Find(id);
         }
 
         public int Login(string userName, string password) {
