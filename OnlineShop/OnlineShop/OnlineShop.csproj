@@ -2077,6 +2077,7 @@
     <Content Include="bin\roslyn\VBCSCompiler.exe.config" />
     <Content Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
     <Content Include="obj\Debug\OnlineShop.csprojResolveAssemblyReference.cache" />
+    <Content Include="Areas\Admin\Views\Shared\_Navigation.cshtml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
