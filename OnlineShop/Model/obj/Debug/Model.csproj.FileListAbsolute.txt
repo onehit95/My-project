@@ -12,3 +12,17 @@ C:\Users\Thanh Trung\Desktop\code\MyProject\OnlineShop\Model\bin\Debug\PagedList
 C:\Users\Thanh Trung\Desktop\code\MyProject\OnlineShop\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
 C:\Users\Thanh Trung\Desktop\code\MyProject\OnlineShop\Model\obj\Debug\Model.dll
 C:\Users\Thanh Trung\Desktop\code\MyProject\OnlineShop\Model\obj\Debug\Model.pdb
+C:\Users\ThanhNV\Desktop\code\My-project\OnlineShop\Model\bin\Debug\Model.dll.config
+C:\Users\ThanhNV\Desktop\code\My-project\OnlineShop\Model\bin\Debug\Model.dll
+C:\Users\ThanhNV\Desktop\code\My-project\OnlineShop\Model\bin\Debug\Model.pdb
+C:\Users\ThanhNV\Desktop\code\My-project\OnlineShop\Model\bin\Debug\EntityFramework.dll
+C:\Users\ThanhNV\Desktop\code\My-project\OnlineShop\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ThanhNV\Desktop\code\My-project\OnlineShop\Model\bin\Debug\PagedList.dll
+C:\Users\ThanhNV\Desktop\code\My-project\OnlineShop\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\ThanhNV\Desktop\code\My-project\OnlineShop\Model\bin\Debug\EntityFramework.xml
+C:\Users\ThanhNV\Desktop\code\My-project\OnlineShop\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ThanhNV\Desktop\code\My-project\OnlineShop\Model\bin\Debug\PagedList.xml
+C:\Users\ThanhNV\Desktop\code\My-project\OnlineShop\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\ThanhNV\Desktop\code\My-project\OnlineShop\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\ThanhNV\Desktop\code\My-project\OnlineShop\Model\obj\Debug\Model.dll
+C:\Users\ThanhNV\Desktop\code\My-project\OnlineShop\Model\obj\Debug\Model.pdb
